@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/jcehowell1/jcehowell1/city_data.jpg "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/jcehowell1/<OWNER>/<OWNER>/city_data.jpg "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 <!--
