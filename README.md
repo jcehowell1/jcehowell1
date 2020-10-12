@@ -1,5 +1,6 @@
-[![Header](https://raw.github.com/jcehowell1/jcehowell1/master/city_data.jpg "Header")](https://some-url.dev/)
-### Hi there 👋
+## [![Header](https://raw.github.com/jcehowell1/jcehowell1/master/city_data.jpg "Header")](https://some-url.dev/)
+
+### Hello my name is James C.E.Howell
 
 <!--
 **jcehowell1/jcehowell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
