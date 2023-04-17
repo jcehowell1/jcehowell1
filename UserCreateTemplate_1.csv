@@ -1,0 +1,7 @@
+﻿version:v1.0
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+Colbert Kelly,colbert@jcehowell2gmail.onmicrosoft.com,ihadherFirst1234, No, Colbert, Kelly, Farmer, Garden, Outside, 4321 Noneya Drive, CA, USA, , , , ,
+Pajamas Howell,pajamas@jcehowell2gmail.onmicrosoft.com,mrmoneyBear1234, No, Pajamas, Howell, Investor, Finance, Upstairs Office, 4321 Noneya Drive, CA, USA, , , , ,
+Beau Howell,beau@jcehowell2gmail.onmicrosoft.com,suchefBear1234, No, Beau, Howell, Su Chef, Cooking, Kitchen, 4321 Noneya Drive, CA, USA, , , , ,
+Lock Howell,lock@jcehowell2gmail.onmicrosoft.com,techTumble1234, No, Lock, Howell, Tech Support Analyst, Tech Support, Upstairs Office, 4321 Noneya Drive, CA, USA, , , , ,
+Key Howell,key@jcehowell2gmail.onmicrosoft.com,techTumble1234, No, Key, Howell, Tech Support Analyst, Tech Support, Upstairs Office, 4321 Noneya Drive, CA, USA, , , , ,
