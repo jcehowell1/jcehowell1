@@ -1,0 +1,2 @@
+-- Active: 1690578602516@@127.0.0.1@3306
+SELECT * FROM country;
